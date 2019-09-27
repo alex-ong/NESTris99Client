@@ -45,8 +45,6 @@ Running
 ===
 Double-click `start.bat`
 
-If you are not familiar with command prompt, [google it...](https://www.google.com/search?q=how+to+change+directory+in+command+prompt)
-
-You'll want to open a command prompt, change to the directory of this repository, then run this python file.
-
+There isn't any output, a command prompt opens and sits there, streaming to the NESTris99 Server.
+Check out twitch.tv/NESTetris99 to see if you pop up on stream.
 
