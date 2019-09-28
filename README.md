@@ -1,8 +1,6 @@
 NESTris99Client
 ===
 
-
-
 Windows
 =====
 
@@ -11,15 +9,13 @@ Calibration
 
 Setup the target window:
 
-1) First, open the application that has your window capture. This will be OBS or an emulator.
+1) First, open the window that you will capture (FCEUX or OBS).
 
-2) Note down it's game window name. Go into the game view (the one with the field).
+2) Scale your application window to where you want it. **Since we capture the screen, any time you scale/stretch the window, the calibration will become invalid**. 
 
-3) Position and scale your application window to where you want it. **Since we capture the screen, any time you scale or move your application window, the calibration will be invalid**. 
+3) You can use Windows+arrow keys to position the window so it will lock to the side or quarter of the screen.
 
-4) You can use Windows+arrow keys to position the window so it will lock to the side or quarter of the screen.
-
-Double-click on `setup.bat`.
+Double-click on `calibrate.bat`.
 
 ![calibration](https://github.com/alex-ong/NESTris99Client/blob/master/assets/doc/example-calibration.png)
 
@@ -38,12 +34,12 @@ Follow the steps in the picture:
 
 6) Calibrate the field in the field tab. There are also two squares that refer to the statistics portion of the screen so that we can ascertain block colors.
 
-7) Calibrate the next piece. Press Refresh until you have a T piece then line it up.
+7) Calibrate the next piece. Line it up with a T piece.
 
 
 Running
 ===
-Double-click `start.bat`
+Double-click `main.exe`
 
 There isn't any output, a command prompt opens and sits there, streaming to the NESTris99 Server.
 Check out twitch.tv/NESTetris99 to see if you pop up on stream.
