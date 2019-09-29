@@ -42,5 +42,6 @@ Running
 Double-click `main.bat`
 
 There isn't any output, a command prompt opens and sits there, streaming to the NESTris99 Server.
-Check out twitch.tv/NESTetris99 to see if you pop up on stream.
+Check out twitch.tv/NESTetris89 to see if you pop up on stream.
 
+Note that it is NESTris 89 not 99.
