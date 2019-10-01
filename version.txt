@@ -1,1 +1,6 @@
+Changelog
+
 2019-10-01
+===========
+- Changed black from (0.25,0.25,0.25) to (0.1,0.1,0.1)
+- Fixed bug in calibrator that didn't reflect actual image that the real OCR algorithm was getting.
