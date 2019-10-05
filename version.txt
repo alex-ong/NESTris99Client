@@ -1,5 +1,12 @@
 Changelog
 
+2019-10-05
+===========
+- Added Autobahn_V2 netcode to cahnge bytes sent from 300bytes / message to 75
+- Added gameID for game detection
+- Added auto-calibration to score, lines and level
+- Fixed a bug in GameID nto detecting properly.
+
 2019-10-01
 ===========
 - Changed black from (0.25,0.25,0.25) to (0.1,0.1,0.1)
