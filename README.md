@@ -27,14 +27,13 @@ Follow the steps in the picture:
 
 3) Press auto-calibrate. The window should snap into place.
 
-4) Check that the game window has been detected. If not, press auto-calibrate another 3-4 times. If that still doesnt work,
-   use the +- buttons in "capture window coords" to get the game window.
+4) Set your game to level 0, lines 0, score 0. Auto adjust and make sure images line up.
 
-5) Micro adjust so that the numbers are highlighted and the black regions are empty. You can repeat step 3 to get closer first.
+5) Ignore this step; not used for NESTris99
 
 6) Calibrate the field in the field tab. There are also two squares that refer to the statistics portion of the screen so that we can ascertain block colors.
 
-7) Calibrate the next piece. Line it up with a T piece.
+7) Calibrate the Preview piece; line it up with the T piece.
 
 
 Running
