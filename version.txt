@@ -1,5 +1,10 @@
 Changelog
 
+2019-10-06
+===========
+- Added sfx for 10 seconds and 3 seconds
+- Added "version" string when connecting to server.
+
 2019-10-05
 ===========
 - Added Autobahn_V2 netcode to cahnge bytes sent from 300bytes / message to 75
