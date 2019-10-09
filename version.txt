@@ -1,5 +1,12 @@
 Changelog
 
+2019-10-10 (norelease)
+===========
+- 4/A discernation in ScoreFixer (previously only dealt with 8/B)
+- Added new Preview algorithm. Should be much more accurate and lenient
+- Added enlarged preview to calibration program
+- Removed llvmlite dependency
+
 2019-10-06
 ===========
 - Added sfx for 10 seconds and 3 seconds
