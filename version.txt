@@ -8,6 +8,7 @@ Changelog
 - Removed llvmlite dependency
 - Added Kicking functionality
 - Added 25 second sound effect.
+- Fixed bug where scores past 1 million were being set with millions digit set to 0.
 
 2019-10-06
 ===========
